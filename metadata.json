@@ -1,0 +1,7 @@
+{
+  "name": "IncidentMind",
+  "description": "Memory-Driven AI Incident Response Agent that learns using Hindsight and Groq reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
